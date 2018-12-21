@@ -1,0 +1,24 @@
+{
+  "name": "keybot",
+  "version": "1.0.0",
+  "description": "Magic bot for key secret validation",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaineGames/keyBot.git"
+  },
+  "author": "BaineGames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaineGames/keyBot/issues"
+  },
+  "homepage": "https://github.com/BaineGames/keyBot#readme"
+}
